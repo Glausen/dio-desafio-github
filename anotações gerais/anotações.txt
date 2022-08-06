@@ -1,0 +1,4 @@
+link para download do linux https://ubuntu.com/download/desktop
+
+
+o git é um terminal extendido para otimizar o uso do github
